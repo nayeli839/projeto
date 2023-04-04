@@ -41,7 +41,7 @@ const i = ['oi' , 'tudo bem'];
 i.reverse();
 console.log(i);
 
- EXERCÍCIO 8 ( POLÍNDROMO)
+ //EXERCÍCIO 8 ( POLÍNDROMO)
 function palindrome(str) {
     var string= '';
     return true;
